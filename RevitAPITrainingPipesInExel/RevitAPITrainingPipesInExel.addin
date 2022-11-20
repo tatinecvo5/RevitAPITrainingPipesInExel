@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITrainingPipesInExel.dll"</Assembly>
+		<AddInId>B34E4867-1E7E-459C-AAF3-1E4B4E1AB648</AddInId>
+		<FullClassName>RevitAPITrainingPipesInExel.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Трубы в Exel</Text>
+	</AddIn>
+</RevitAddIns>
